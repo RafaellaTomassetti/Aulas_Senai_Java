@@ -5,7 +5,7 @@ public class Aplicacao {
 		
 		//Item item = new Item();
 		
-		Item item = new Moeda(); //Quando vocÍ cria a vari·vel, n„o È nescess·rio criar novamente com o "Item item", apenas coloque a vari·vel e conecte com o mÈtodo
+		Item item = new Moeda(); //Quando voc√™ cria a vari√°vel, n√£o √© nescess√°rio criar novamente com o "Item item", apenas coloque a vari√°vel e conecte com o m√©todo
 			item.pegar();
 			
 			item = new Cogumelo();
@@ -15,7 +15,7 @@ public class Aplicacao {
 			item.pegar();
 		
 
-	}
+	} //A Rafa √© ridicula
 
 	
 	
